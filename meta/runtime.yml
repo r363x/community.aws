@@ -145,6 +145,8 @@ action_groups:
     - lightsail_static_ip
     - medialive_network_info
     - medialive_network
+    - medialive_cluster_info
+    - medialive_cluster
     - mq_broker
     - mq_broker_config
     - mq_broker_info
