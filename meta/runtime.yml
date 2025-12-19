@@ -147,6 +147,9 @@ action_groups:
     - medialive_network
     - medialive_cluster_info
     - medialive_cluster
+    - medialive_node_info
+    - medialive_node
+    - medialive_node_registration
     - mq_broker
     - mq_broker_config
     - mq_broker_info
